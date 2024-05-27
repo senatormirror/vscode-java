@@ -196,7 +196,8 @@
         "id": "java",
         "extensions": [
           ".java",
-          ".class"
+          ".class",
+          ".nlvm"
         ],
         "configuration": "./language-support/java/language-configuration.json"
       },
